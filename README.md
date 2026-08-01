@@ -1,2 +1,4 @@
-# cpp-regression-35
+# Cpp Regression 35
+
 Basic slope-intercept coefficients solver in C++.
+
